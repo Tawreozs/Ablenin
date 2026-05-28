@@ -1,18 +1,5 @@
 {
-  "items": [
-    {
-      "model": "Абленин",
-      "reason": "",
-      "date": "28.05.2026, 10:56:02",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1779954967633-407",
-      "status": "active",
-      "updatedAt": 1779954967633
-    }
-  ],
+  "items": [],
   "partsText": "",
   "deletedIds": [
     "item-1779625377251-617",
@@ -48,8 +35,9 @@
     "3",
     "2",
     "1",
-    "item-1779788864742-756"
+    "item-1779788864742-756",
+    "item-1779954967633-407"
   ],
   "partsUpdatedAt": 1779955423580,
-  "updatedAt": 1779955632805
+  "updatedAt": 1779955638245
 }
