@@ -13,20 +13,6 @@
       "updatedAt": 1779954967633
     },
     {
-      "id": "2",
-      "model": "Honor 9c",
-      "reason": "дисплей",
-      "date": "04.03.2026",
-      "contact": "89877754147",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "status": "active",
-      "price": 2500,
-      "partsCost": 670,
-      "updatedAt": 1779786947800
-    },
-    {
       "id": "1",
       "model": "Копия айфона",
       "reason": "без ремонта",
@@ -87,8 +73,9 @@
     "item-1779788603916-93",
     "item-1779872158716-851",
     "4",
-    "3"
+    "3",
+    "2"
   ],
   "partsUpdatedAt": 1779953236911,
-  "updatedAt": 1779955417834
+  "updatedAt": 1779955419576
 }
