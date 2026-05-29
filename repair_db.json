@@ -8,9 +8,11 @@
       "contact2": "",
       "name": "Никита",
       "comment": "",
+      "price": 2500,
+      "partsCost": 330,
       "id": "item-1780051417359-806",
       "status": "active",
-      "updatedAt": 1780051417359
+      "updatedAt": 1780054008386
     },
     {
       "model": "абл",
@@ -66,5 +68,5 @@
     "item-1779955639977-184"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780053974608
+  "updatedAt": 1780054008963
 }
