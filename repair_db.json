@@ -3,14 +3,14 @@
     {
       "model": "ыыы",
       "reason": "",
-      "date": "01.06.2026, 11:49:16",
+      "date": "01.01.2026, 11:49:16",
       "contact": "",
       "contact2": "",
       "name": "",
       "comment": "",
       "id": "item-1780303758939-995",
       "status": "active",
-      "updatedAt": 1780303758939
+      "updatedAt": 1780303765325
     },
     {
       "model": "Poco x5 5g",
@@ -80,5 +80,5 @@
     "item-1779955639977-184"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780303759584
+  "updatedAt": 1780303765914
 }
