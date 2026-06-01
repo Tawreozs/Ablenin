@@ -23,9 +23,8 @@
       "name": "",
       "comment": "ssss",
       "id": "item-1779959007158-200",
-      "status": "archived",
-      "updatedAt": 1780303458130,
-      "archivedDate": "28.05.2026, 12:06:04"
+      "status": "active",
+      "updatedAt": 1780303477952
     }
   ],
   "partsText": "",
@@ -68,5 +67,5 @@
     "item-1779955639977-184"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780303473925
+  "updatedAt": 1780303478490
 }
