@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Tecno pova 3",
+      "reason": "замена дисплея",
+      "date": "06.06.2026, 11:45:28",
+      "contact": "89883504438",
+      "contact2": "",
+      "name": "Лидия",
+      "comment": "ориг 3300+300",
+      "price": 900,
+      "partsCost": 3600,
+      "id": "item-1780735582295-212",
+      "status": "active",
+      "updatedAt": 1780735582295
+    },
+    {
       "model": "Honor 20 Pro",
       "reason": "замена дисплей",
       "date": "05.06.2026, 17:08:42",
@@ -99,5 +113,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780735580923
+  "updatedAt": 1780735582747
 }
