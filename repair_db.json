@@ -8,11 +8,11 @@
       "contact2": "",
       "name": "Лидия",
       "comment": "ориг 3300+300",
-      "price": 900,
-      "partsCost": 3600,
+      "price": 3600,
+      "partsCost": 900,
       "id": "item-1780735582295-212",
       "status": "active",
-      "updatedAt": 1780735582295
+      "updatedAt": 1780736196324
     },
     {
       "model": "Honor 20 Pro",
@@ -113,5 +113,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780736169428
+  "updatedAt": 1780736196944
 }
