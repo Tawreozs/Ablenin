@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "infinix note 12",
+      "reason": "",
+      "date": "08.06.2026, 12:50:34",
+      "contact": "89892475263",
+      "contact2": "",
+      "name": "Виктория",
+      "comment": "",
+      "price": 5700,
+      "partsCost": 2800,
+      "id": "item-1780918096179-862",
+      "status": "active",
+      "updatedAt": 1780918096179
+    },
+    {
       "model": "Tecno pova 3",
       "reason": "замена дисплея",
       "date": "06.06.2026, 11:45:28",
@@ -113,5 +127,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780918092269
+  "updatedAt": 1780918096680
 }
