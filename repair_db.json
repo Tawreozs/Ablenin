@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "БП Асер",
+      "reason": "",
+      "date": "08.06.2026, 15:37:09",
+      "contact": "89265500228",
+      "contact2": "",
+      "name": "Светлана",
+      "comment": "",
+      "price": 600,
+      "partsCost": 2300,
+      "id": "item-1780922337506-682",
+      "status": "active",
+      "updatedAt": 1780922337506
+    },
+    {
       "model": "infinix note 12",
       "reason": "",
       "date": "08.06.2026, 12:50:34",
@@ -127,5 +141,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1780922314725
+  "updatedAt": 1780922337987
 }
