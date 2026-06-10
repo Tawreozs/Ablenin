@@ -9,9 +9,10 @@
       "name": "Александр",
       "comment": "взтут акб",
       "price": 2000,
+      "partsCost": 0,
       "id": "item-1781094136247-489",
       "status": "active",
-      "updatedAt": 1781094136247
+      "updatedAt": 1781097034010
     },
     {
       "model": "realme gt6",
@@ -175,5 +176,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781097028003
+  "updatedAt": 1781097034537
 }
