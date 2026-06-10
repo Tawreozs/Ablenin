@@ -23,10 +23,10 @@
       "name": "Максим",
       "comment": "",
       "price": 1500,
-      "partsCost": 1500,
+      "partsCost": 0,
       "id": "item-1781090846750-116",
       "status": "active",
-      "updatedAt": 1781090846750
+      "updatedAt": 1781097045853
     },
     {
       "model": "БП Асер",
@@ -176,5 +176,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781097034537
+  "updatedAt": 1781097046356
 }
