@@ -25,8 +25,9 @@
       "price": 1500,
       "partsCost": 0,
       "id": "item-1781090846750-116",
-      "status": "active",
-      "updatedAt": 1781097045853
+      "status": "archived",
+      "updatedAt": 1781097814943,
+      "archivedDate": "10.06.2026, 16:23:34"
     },
     {
       "model": "БП Асер",
@@ -176,5 +177,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781097810276
+  "updatedAt": 1781097815574
 }
