@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "realme gt6",
+      "reason": "Разъм зарядки",
+      "date": "10.06.2026, 14:26:39",
+      "contact": "89618585952",
+      "contact2": "",
+      "name": "Максим",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 1500,
+      "id": "item-1781090846750-116",
+      "status": "active",
+      "updatedAt": 1781090846750
+    },
+    {
       "model": "БП Асер",
       "reason": "",
       "date": "08.06.2026, 15:37:09",
@@ -148,5 +162,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781090840258
+  "updatedAt": 1781090847208
 }
