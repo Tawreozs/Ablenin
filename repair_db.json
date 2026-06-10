@@ -11,8 +11,9 @@
       "price": 2000,
       "partsCost": 0,
       "id": "item-1781094136247-489",
-      "status": "active",
-      "updatedAt": 1781097034010
+      "status": "archived",
+      "updatedAt": 1781098825081,
+      "archivedDate": "10.06.2026, 16:40:25"
     },
     {
       "model": "realme gt6",
@@ -177,5 +178,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781098811879
+  "updatedAt": 1781098825596
 }
