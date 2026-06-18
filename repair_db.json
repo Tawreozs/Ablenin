@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "redmi 10c redmi",
+      "reason": "КП и Залит",
+      "date": "18.06.2026, 13:33:58",
+      "contact": "89676597070",
+      "contact2": "",
+      "name": "Анна",
+      "comment": "",
+      "id": "item-1781778899016-211",
+      "status": "active",
+      "updatedAt": 1781778899016
+    },
+    {
       "model": "honor y70",
       "reason": "замена дисплея",
       "date": "18.06.2026, 10:49:19",
@@ -192,5 +204,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781778882727
+  "updatedAt": 1781778899462
 }
