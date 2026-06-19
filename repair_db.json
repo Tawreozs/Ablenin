@@ -23,8 +23,9 @@
       "price": 2650,
       "partsCost": 650,
       "id": "item-1781769035054-793",
-      "status": "active",
-      "updatedAt": 1781769035054
+      "status": "archived",
+      "updatedAt": 1781865916885,
+      "archivedDate": "19.06.2026, 13:45:16"
     },
     {
       "model": "айфон 13",
@@ -204,5 +205,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781865886898
+  "updatedAt": 1781865917362
 }
