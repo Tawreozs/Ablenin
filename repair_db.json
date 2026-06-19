@@ -9,8 +9,9 @@
       "name": "Анна",
       "comment": "",
       "id": "item-1781778899016-211",
-      "status": "active",
-      "updatedAt": 1781778899016
+      "status": "archived",
+      "updatedAt": 1781871395257,
+      "archivedDate": "19.06.2026, 15:16:35"
     },
     {
       "model": "honor y70",
@@ -205,5 +206,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1781871392880
+  "updatedAt": 1781871395751
 }
