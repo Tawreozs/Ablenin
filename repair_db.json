@@ -9,8 +9,9 @@
       "name": "Ирина",
       "comment": "",
       "id": "item-1781950408063-332",
-      "status": "active",
-      "updatedAt": 1781950408063
+      "status": "archived",
+      "updatedAt": 1782112370324,
+      "archivedDate": "22.06.2026, 10:12:50"
     },
     {
       "model": "redmi 10c redmi",
@@ -218,5 +219,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782112360572
+  "updatedAt": 1782112370762
 }
