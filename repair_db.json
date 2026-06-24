@@ -11,8 +11,9 @@
       "price": 3750,
       "partsCost": 1650,
       "id": "item-1782214071929-191",
-      "status": "active",
-      "updatedAt": 1782221917868
+      "status": "archived",
+      "updatedAt": 1782291738272,
+      "archivedDate": "24.06.2026, 12:02:18"
     },
     {
       "model": "Redmi note 14",
@@ -233,5 +234,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782291735698
+  "updatedAt": 1782291738715
 }
