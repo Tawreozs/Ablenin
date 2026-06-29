@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Xiaomi Poco X5 5G",
+      "reason": "",
+      "date": "29.06.2026, 15:09:10",
+      "contact": "89898307167",
+      "contact2": "",
+      "name": "Никита",
+      "comment": "стекло защитка",
+      "price": 4300,
+      "partsCost": 1800,
+      "id": "item-1782735058550-541",
+      "status": "active",
+      "updatedAt": 1782735058550
+    },
+    {
       "model": "samsung a52",
       "reason": "не заряжается",
       "date": "23.06.2026, 14:25:33",
@@ -234,5 +248,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782735039928
+  "updatedAt": 1782735059023
 }
