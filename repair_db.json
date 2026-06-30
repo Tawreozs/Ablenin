@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "hot 40",
-      "reason": "дисплей",
-      "date": "30.06.2026, 10:42:13",
-      "contact": "89181371188",
-      "contact2": "",
-      "name": "Наталья",
-      "comment": "стекло 300",
-      "price": 3950,
-      "partsCost": 1000,
-      "id": "item-1782805399615-941",
-      "status": "active",
-      "updatedAt": 1782805399615
-    },
-    {
       "model": "Xiaomi Poco X5 5G",
       "reason": "",
       "date": "29.06.2026, 15:09:10",
@@ -27,6 +13,21 @@
       "id": "item-1782735058550-541",
       "status": "active",
       "updatedAt": 1782813629850
+    },
+    {
+      "model": "hot 40",
+      "reason": "дисплей",
+      "date": "30.06.2026, 10:42:13",
+      "contact": "89181371188",
+      "contact2": "",
+      "name": "Наталья",
+      "comment": "стекло 300",
+      "price": 3950,
+      "partsCost": 1000,
+      "id": "item-1782805399615-941",
+      "status": "archived",
+      "updatedAt": 1782829790142,
+      "archivedDate": "30.06.2026, 17:29:50"
     },
     {
       "model": "samsung a52",
@@ -262,5 +263,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782829787099
+  "updatedAt": 1782829790613
 }
