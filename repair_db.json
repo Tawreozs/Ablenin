@@ -23,10 +23,10 @@
       "name": "Никита",
       "comment": "стекло защитка",
       "price": 4300,
-      "partsCost": 1800,
+      "partsCost": 2450,
       "id": "item-1782735058550-541",
       "status": "active",
-      "updatedAt": 1782735058550
+      "updatedAt": 1782813629850
     },
     {
       "model": "samsung a52",
@@ -262,5 +262,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782813600540
+  "updatedAt": 1782813630350
 }
