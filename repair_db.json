@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Xiaomi Poco X5 5G",
-      "reason": "",
-      "date": "29.06.2026, 15:09:10",
-      "contact": "89898307167",
-      "contact2": "",
-      "name": "Никита",
-      "comment": "стекло защитка",
-      "price": 4300,
-      "partsCost": 2450,
-      "id": "item-1782735058550-541",
-      "status": "active",
-      "updatedAt": 1782813629850
-    },
-    {
       "model": "hot 40",
       "reason": "дисплей",
       "date": "30.06.2026, 10:42:13",
@@ -28,6 +14,21 @@
       "status": "archived",
       "updatedAt": 1782829790142,
       "archivedDate": "30.06.2026, 17:29:50"
+    },
+    {
+      "model": "Xiaomi Poco X5 5G",
+      "reason": "",
+      "date": "29.06.2026, 15:09:10",
+      "contact": "89898307167",
+      "contact2": "",
+      "name": "Никита",
+      "comment": "стекло защитка",
+      "price": 4300,
+      "partsCost": 2450,
+      "id": "item-1782735058550-541",
+      "status": "archived",
+      "updatedAt": 1782909070831,
+      "archivedDate": "01.07.2026, 15:31:10"
     },
     {
       "model": "samsung a52",
@@ -263,5 +264,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782909057816
+  "updatedAt": 1782909071714
 }
