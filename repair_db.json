@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "infinix note 30",
+      "reason": "дисплей",
+      "date": "02.07.2026, 13:58:54",
+      "contact": "89228381045",
+      "contact2": "",
+      "name": "Кристина",
+      "comment": "",
+      "id": "item-1782990029602-887",
+      "status": "active",
+      "updatedAt": 1782990029602
+    },
+    {
       "model": "iphone 12",
       "reason": "",
       "date": "02.07.2026, 12:12:14",
@@ -277,5 +289,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782990028718
+  "updatedAt": 1782990078824
 }
