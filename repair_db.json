@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "iphone 12",
+      "reason": "",
+      "date": "02.07.2026, 12:12:14",
+      "contact": "89898214528",
+      "contact2": "",
+      "name": "Лиза",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1782983629503-614",
+      "status": "active",
+      "updatedAt": 1782983629503
+    },
+    {
       "model": "hot 40",
       "reason": "дисплей",
       "date": "30.06.2026, 10:42:13",
@@ -264,5 +277,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782983622831
+  "updatedAt": 1782983630001
 }
