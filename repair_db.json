@@ -7,10 +7,12 @@
       "contact": "89228381045",
       "contact2": "",
       "name": "Кристина",
-      "comment": "",
+      "comment": "стекло",
+      "price": 3600,
+      "partsCost": 1000,
       "id": "item-1782990029602-887",
       "status": "active",
-      "updatedAt": 1782990029602
+      "updatedAt": 1782993027466
     },
     {
       "model": "iphone 12",
@@ -289,5 +291,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1782993012078
+  "updatedAt": 1782993029507
 }
