@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "infinix note 30",
-      "reason": "дисплей",
-      "date": "02.07.2026, 13:58:54",
-      "contact": "89228381045",
-      "contact2": "",
-      "name": "Кристина",
-      "comment": "стекло",
-      "price": 3600,
-      "partsCost": 1000,
-      "id": "item-1782990029602-887",
-      "status": "active",
-      "updatedAt": 1782993027466
-    },
-    {
       "model": "iphone 12",
       "reason": "",
       "date": "02.07.2026, 12:12:14",
@@ -26,6 +12,21 @@
       "id": "item-1782983629503-614",
       "status": "active",
       "updatedAt": 1782983629503
+    },
+    {
+      "model": "infinix note 30",
+      "reason": "дисплей",
+      "date": "02.07.2026, 13:58:54",
+      "contact": "89228381045",
+      "contact2": "",
+      "name": "Кристина",
+      "comment": "стекло",
+      "price": 3600,
+      "partsCost": 1000,
+      "id": "item-1782990029602-887",
+      "status": "archived",
+      "updatedAt": 1783343812973,
+      "archivedDate": "06.07.2026, 16:16:52"
     },
     {
       "model": "hot 40",
@@ -291,5 +292,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1783343809611
+  "updatedAt": 1783343813487
 }
