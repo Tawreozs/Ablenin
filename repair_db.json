@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "ihpone 13 pro",
+      "reason": "замена акб",
+      "date": "07.07.2026, 12:14:27",
+      "contact": "89671771776",
+      "contact2": "",
+      "name": "Анна",
+      "comment": "стекло ремакс 650",
+      "price": 1900,
+      "partsCost": 3900,
+      "id": "item-1783415740046-212",
+      "status": "active",
+      "updatedAt": 1783415740046
+    },
+    {
       "model": "iphone 12",
       "reason": "",
       "date": "02.07.2026, 12:12:14",
@@ -292,5 +306,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1783415712808
+  "updatedAt": 1783415740633
 }
