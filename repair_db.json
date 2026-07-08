@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "poco f5 и samsung a54",
-      "reason": "Замена батарейки тое акб",
-      "date": "07.07.2026, 16:14:28",
-      "contact": "89054940354",
-      "contact2": "",
-      "name": "Давид",
-      "comment": "1600  3100 самсунг плюс защитные стекла по 500",
-      "price": 3100,
-      "partsCost": 1600,
-      "id": "item-1783430491097-947",
-      "status": "active",
-      "updatedAt": 1783430491097
-    },
-    {
       "model": "ihpone 13 pro",
       "reason": "замена акб",
       "date": "07.07.2026, 12:14:27",
@@ -40,6 +26,21 @@
       "id": "item-1782983629503-614",
       "status": "active",
       "updatedAt": 1782983629503
+    },
+    {
+      "model": "poco f5 и samsung a54",
+      "reason": "Замена батарейки тое акб",
+      "date": "07.07.2026, 16:14:28",
+      "contact": "89054940354",
+      "contact2": "",
+      "name": "Давид",
+      "comment": "1600  3100 самсунг плюс защитные стекла по 500",
+      "price": 3100,
+      "partsCost": 1600,
+      "id": "item-1783430491097-947",
+      "status": "archived",
+      "updatedAt": 1783511826937,
+      "archivedDate": "08.07.2026, 14:57:06"
     },
     {
       "model": "infinix note 30",
@@ -320,5 +321,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1783511826342
+  "updatedAt": 1783511873570
 }
