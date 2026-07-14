@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "samsung a54",
+      "reason": "замена акб",
+      "date": "14.07.2026, 15:01:35",
+      "contact": "89000081527",
+      "contact2": "",
+      "name": "Веата",
+      "comment": "",
+      "price": 2850,
+      "partsCost": 550,
+      "id": "item-1784031050005-192",
+      "status": "active",
+      "updatedAt": 1784031050005
+    },
+    {
       "model": "iphone 12",
       "reason": "",
       "date": "02.07.2026, 12:12:14",
@@ -322,5 +336,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784031043038
+  "updatedAt": 1784031050637
 }
