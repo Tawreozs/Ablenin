@@ -36,8 +36,9 @@
       "price": 2850,
       "partsCost": 550,
       "id": "item-1784031050005-192",
-      "status": "active",
-      "updatedAt": 1784031050005
+      "status": "archived",
+      "updatedAt": 1784273580175,
+      "archivedDate": "17.07.2026, 10:33:00"
     },
     {
       "model": "poco f5 и samsung a54",
@@ -362,5 +363,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784273577323
+  "updatedAt": 1784273581188
 }
