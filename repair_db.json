@@ -26,19 +26,6 @@
       "updatedAt": 1784297256280
     },
     {
-      "model": "айфон 12 про",
-      "reason": "прошивка",
-      "date": "16.07.2026, 13:02:21",
-      "contact": "89389927323",
-      "contact2": "",
-      "name": "Хусейн",
-      "comment": "",
-      "price": 2000,
-      "id": "item-1784196194873-864",
-      "status": "active",
-      "updatedAt": 1784196194873
-    },
-    {
       "model": "samsung a56",
       "reason": "",
       "date": "15.07.2026, 13:39:02",
@@ -49,6 +36,20 @@
       "id": "item-1784111993057-872",
       "status": "active",
       "updatedAt": 1784111993057
+    },
+    {
+      "model": "айфон 12 про",
+      "reason": "прошивка",
+      "date": "16.07.2026, 13:02:21",
+      "contact": "89389927323",
+      "contact2": "",
+      "name": "Хусейн",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1784196194873-864",
+      "status": "archived",
+      "updatedAt": 1784297265471,
+      "archivedDate": "17.07.2026, 17:07:45"
     },
     {
       "model": "samsung a54",
@@ -388,5 +389,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784297257051
+  "updatedAt": 1784297265998
 }
