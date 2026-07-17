@@ -13,16 +13,17 @@
       "updatedAt": 1784297086866
     },
     {
-      "model": "Huawei",
-      "reason": "пароль",
+      "model": "брелок",
+      "reason": "брелок",
       "date": "17.07.2026, 16:58:24",
       "contact": "89241774295",
       "contact2": "",
       "name": "Елена",
-      "comment": "",
+      "comment": "150",
+      "price": 500,
       "id": "item-1784297045445-252",
       "status": "active",
-      "updatedAt": 1784297045445
+      "updatedAt": 1784297256280
     },
     {
       "model": "айфон 12 про",
@@ -387,5 +388,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784297212523
+  "updatedAt": 1784297257051
 }
