@@ -22,8 +22,9 @@
       "comment": "150",
       "price": 500,
       "id": "item-1784297045445-252",
-      "status": "active",
-      "updatedAt": 1784297256280
+      "status": "archived",
+      "updatedAt": 1784553377901,
+      "archivedDate": "20.07.2026, 16:16:17"
     },
     {
       "model": "айфон 12 про",
@@ -390,5 +391,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784553336314
+  "updatedAt": 1784553378768
 }
