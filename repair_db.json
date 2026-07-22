@@ -22,11 +22,11 @@
       "contact2": "",
       "name": "Любовь",
       "comment": "предоплата 300",
-      "price": 220,
-      "partsCost": 700,
+      "price": 800,
+      "partsCost": 220,
       "id": "item-1784645085180-783",
       "status": "active",
-      "updatedAt": 1784645085180
+      "updatedAt": 1784719808814
     },
     {
       "model": "12t pro",
@@ -433,5 +433,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784719793831
+  "updatedAt": 1784719809482
 }
