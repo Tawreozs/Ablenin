@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Apple iPhone Xr",
+      "reason": "замена дисплея",
+      "date": "24.07.2026, 14:44:15",
+      "contact": "89180984848",
+      "contact2": "",
+      "name": "Вадим",
+      "comment": "300 стекло",
+      "price": 2750,
+      "partsCost": 850,
+      "id": "item-1784893520113-594",
+      "status": "active",
+      "updatedAt": 1784893520113
+    },
+    {
       "model": "a24",
       "reason": "замена дисплея",
       "date": "24.07.2026, 13:36:38",
@@ -464,5 +478,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784893493356
+  "updatedAt": 1784893521080
 }
