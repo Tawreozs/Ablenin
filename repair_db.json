@@ -43,20 +43,6 @@
       "updatedAt": 1784812483901
     },
     {
-      "model": "12t pro",
-      "reason": "замена акб",
-      "date": "21.07.2026, 10:21:52",
-      "contact": "89189948500",
-      "contact2": "",
-      "name": "Елена",
-      "comment": "",
-      "price": 3300,
-      "partsCost": 1100,
-      "id": "item-1784618697728-556",
-      "status": "active",
-      "updatedAt": 1784618697728
-    },
-    {
       "model": "samsubg a12",
       "reason": "дисплей разбит",
       "date": "22.07.2026, 10:36:51",
@@ -85,6 +71,21 @@
       "status": "archived",
       "updatedAt": 1784729543154,
       "archivedDate": "22.07.2026, 17:12:23"
+    },
+    {
+      "model": "12t pro",
+      "reason": "замена акб",
+      "date": "21.07.2026, 10:21:52",
+      "contact": "89189948500",
+      "contact2": "",
+      "name": "Елена",
+      "comment": "",
+      "price": 3300,
+      "partsCost": 1100,
+      "id": "item-1784618697728-556",
+      "status": "archived",
+      "updatedAt": 1784893849600,
+      "archivedDate": "24.07.2026, 14:50:49"
     },
     {
       "model": "реалми с25эс",
@@ -478,5 +479,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784893845762
+  "updatedAt": 1784893850251
 }
