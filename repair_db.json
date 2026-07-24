@@ -7,12 +7,12 @@
       "contact": "89180984848",
       "contact2": "",
       "name": "Вадим",
-      "comment": "300 стекло",
+      "comment": "300 стекло предоплата 1000",
       "price": 2750,
       "partsCost": 850,
       "id": "item-1784893520113-594",
       "status": "active",
-      "updatedAt": 1784893520113
+      "updatedAt": 1784893862069
     },
     {
       "model": "a24",
@@ -479,5 +479,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784893850251
+  "updatedAt": 1784893862741
 }
