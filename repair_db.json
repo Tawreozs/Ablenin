@@ -8,11 +8,11 @@
       "contact2": "",
       "name": "Абдула",
       "comment": "стекло 300",
-      "price": 5800,
+      "price": 6100,
       "partsCost": 2450,
       "id": "item-1784889489185-154",
       "status": "active",
-      "updatedAt": 1784889489185
+      "updatedAt": 1784891085606
     },
     {
       "model": "айфон 14 про стекло ремакс",
@@ -464,5 +464,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1784891078190
+  "updatedAt": 1784891086101
 }
