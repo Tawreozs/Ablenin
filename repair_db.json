@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "айфон 14 про стекло ремакс",
-      "reason": "",
-      "date": "23.07.2026, 16:14:09",
-      "contact": "89633232336",
-      "contact2": "",
-      "name": "Полина",
-      "comment": "",
-      "price": 750,
-      "partsCost": 300,
-      "id": "item-1784812483901-441",
-      "status": "active",
-      "updatedAt": 1784812483901
-    },
-    {
       "model": "Apple iPhone Xr",
       "reason": "замена дисплея",
       "date": "24.07.2026, 14:44:15",
@@ -43,6 +29,21 @@
       "status": "archived",
       "updatedAt": 1785224715160,
       "archivedDate": "28.07.2026, 10:45:15"
+    },
+    {
+      "model": "айфон 14 про стекло ремакс",
+      "reason": "",
+      "date": "23.07.2026, 16:14:09",
+      "contact": "89633232336",
+      "contact2": "",
+      "name": "Полина",
+      "comment": "",
+      "price": 750,
+      "partsCost": 300,
+      "id": "item-1784812483901-441",
+      "status": "archived",
+      "updatedAt": 1785224719567,
+      "archivedDate": "28.07.2026, 10:45:19"
     },
     {
       "model": "samsubg a12",
@@ -481,5 +482,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785224715678
+  "updatedAt": 1785224720039
 }
