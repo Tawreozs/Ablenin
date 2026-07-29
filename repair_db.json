@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "infinix",
+      "reason": "",
+      "date": "29.07.2026, 16:37:09",
+      "contact": "89952214845",
+      "contact2": "",
+      "name": "Надежда",
+      "comment": "до 4к",
+      "id": "item-1785332270855-295",
+      "status": "active",
+      "updatedAt": 1785332270855
+    },
+    {
       "model": "nova y72s",
       "reason": "замена дисплея",
       "date": "29.07.2026, 11:53:40",
@@ -510,5 +522,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785332260562
+  "updatedAt": 1785332271379
 }
