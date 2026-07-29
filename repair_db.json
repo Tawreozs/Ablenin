@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "nova y72s",
+      "reason": "замена дисплея",
+      "date": "29.07.2026, 11:53:40",
+      "contact": "89090096281",
+      "contact2": "",
+      "name": "Татьяна",
+      "comment": "+300 стекло",
+      "price": 2700,
+      "partsCost": 600,
+      "id": "item-1785315810688-753",
+      "status": "active",
+      "updatedAt": 1785315810688
+    },
+    {
       "model": "note 8 pro",
       "reason": "аккумулятор замена",
       "date": "29.07.2026, 11:22:45",
@@ -496,5 +510,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785315795373
+  "updatedAt": 1785315811269
 }
