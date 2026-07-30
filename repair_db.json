@@ -13,20 +13,6 @@
       "updatedAt": 1785332270855
     },
     {
-      "model": "nova y72s",
-      "reason": "замена дисплея",
-      "date": "29.07.2026, 11:53:40",
-      "contact": "89090096281",
-      "contact2": "",
-      "name": "Татьяна",
-      "comment": "+300 стекло",
-      "price": 2700,
-      "partsCost": 600,
-      "id": "item-1785315810688-753",
-      "status": "active",
-      "updatedAt": 1785315810688
-    },
-    {
       "model": "note 8 pro",
       "reason": "аккумулятор замена",
       "date": "29.07.2026, 11:22:45",
@@ -53,6 +39,21 @@
       "id": "item-1784889489185-154",
       "status": "active",
       "updatedAt": 1785400805555
+    },
+    {
+      "model": "nova y72s",
+      "reason": "замена дисплея",
+      "date": "29.07.2026, 11:53:40",
+      "contact": "89090096281",
+      "contact2": "",
+      "name": "Татьяна",
+      "comment": "+300 стекло",
+      "price": 2700,
+      "partsCost": 600,
+      "id": "item-1785315810688-753",
+      "status": "archived",
+      "updatedAt": 1785422341415,
+      "archivedDate": "30.07.2026, 17:39:01"
     },
     {
       "model": "Apple iPhone Xr",
@@ -521,5 +522,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785422338859
+  "updatedAt": 1785422342836
 }
