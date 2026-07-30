@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "model": "infinix",
-      "reason": "",
-      "date": "29.07.2026, 16:37:09",
-      "contact": "89952214845",
-      "contact2": "",
-      "name": "Надежда",
-      "comment": "до 4к",
-      "id": "item-1785332270855-295",
-      "status": "active",
-      "updatedAt": 1785332270855
-    },
-    {
       "model": "note 8 pro",
       "reason": "аккумулятор замена",
       "date": "29.07.2026, 11:22:45",
@@ -39,6 +27,19 @@
       "id": "item-1784889489185-154",
       "status": "active",
       "updatedAt": 1785400805555
+    },
+    {
+      "model": "infinix",
+      "reason": "",
+      "date": "29.07.2026, 16:37:09",
+      "contact": "89952214845",
+      "contact2": "",
+      "name": "Надежда",
+      "comment": "до 4к",
+      "id": "item-1785332270855-295",
+      "status": "archived",
+      "updatedAt": 1785422344936,
+      "archivedDate": "30.07.2026, 17:39:04"
     },
     {
       "model": "nova y72s",
@@ -522,5 +523,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785422342836
+  "updatedAt": 1785422345537
 }
