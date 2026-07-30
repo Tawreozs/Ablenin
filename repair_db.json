@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "a24",
-      "reason": "замена дисплея",
-      "date": "24.07.2026, 13:36:38",
-      "contact": "89028459922",
-      "contact2": "",
-      "name": "Абдула",
-      "comment": "стекло 300",
-      "price": 6100,
-      "partsCost": 2450,
-      "id": "item-1784889489185-154",
-      "status": "active",
-      "updatedAt": 1785400805555
-    },
-    {
       "model": "infinix",
       "reason": "",
       "date": "29.07.2026, 16:37:09",
@@ -71,6 +57,21 @@
       "status": "archived",
       "updatedAt": 1785143640196,
       "archivedDate": "27.07.2026, 12:14:00"
+    },
+    {
+      "model": "a24",
+      "reason": "замена дисплея",
+      "date": "24.07.2026, 13:36:38",
+      "contact": "89028459922",
+      "contact2": "",
+      "name": "Абдула",
+      "comment": "стекло 300",
+      "price": 6100,
+      "partsCost": 2450,
+      "id": "item-1784889489185-154",
+      "status": "archived",
+      "updatedAt": 1785422349338,
+      "archivedDate": "30.07.2026, 17:39:09"
     },
     {
       "model": "айфон 14 про стекло ремакс",
@@ -524,5 +525,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785422348279
+  "updatedAt": 1785422350415
 }
