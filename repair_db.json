@@ -41,6 +41,20 @@
       "updatedAt": 1785313448133
     },
     {
+      "model": "a24",
+      "reason": "замена дисплея",
+      "date": "24.07.2026, 13:36:38",
+      "contact": "89028459922",
+      "contact2": "",
+      "name": "Абдула",
+      "comment": "стекло 300",
+      "price": 6100,
+      "partsCost": 2450,
+      "id": "item-1784889489185-154",
+      "status": "active",
+      "updatedAt": 1785400805555
+    },
+    {
       "model": "Apple iPhone Xr",
       "reason": "замена дисплея",
       "date": "24.07.2026, 14:44:15",
@@ -54,21 +68,6 @@
       "status": "archived",
       "updatedAt": 1785143640196,
       "archivedDate": "27.07.2026, 12:14:00"
-    },
-    {
-      "model": "a24",
-      "reason": "замена дисплея",
-      "date": "24.07.2026, 13:36:38",
-      "contact": "89028459922",
-      "contact2": "",
-      "name": "Абдула",
-      "comment": "стекло 300",
-      "price": 6100,
-      "partsCost": 2450,
-      "id": "item-1784889489185-154",
-      "status": "archived",
-      "updatedAt": 1785224715160,
-      "archivedDate": "28.07.2026, 10:45:15"
     },
     {
       "model": "айфон 14 про стекло ремакс",
@@ -522,5 +521,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1785400780808
+  "updatedAt": 1785400806088
 }
