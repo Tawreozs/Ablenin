@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "хено спарк 10",
+      "reason": "",
+      "date": "10.08.2026, 12:43:08",
+      "contact": "89649084227",
+      "contact2": "",
+      "name": "Надежда",
+      "comment": "+350 защитка",
+      "price": 3000,
+      "partsCost": 600,
+      "id": "item-1786355041909-275",
+      "status": "active",
+      "updatedAt": 1786355041909
+    },
+    {
       "model": "infinix",
       "reason": "",
       "date": "29.07.2026, 16:37:09",
@@ -525,5 +539,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1786355033043
+  "updatedAt": 1786355042486
 }
