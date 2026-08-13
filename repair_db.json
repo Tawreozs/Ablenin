@@ -24,8 +24,9 @@
       "price": 3000,
       "partsCost": 600,
       "id": "item-1786355041909-275",
-      "status": "active",
-      "updatedAt": 1786355041909
+      "status": "archived",
+      "updatedAt": 1786611397813,
+      "archivedDate": "13.08.2026, 11:56:37"
     },
     {
       "model": "infinix",
@@ -552,5 +553,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1786611393982
+  "updatedAt": 1786611398359
 }
