@@ -49,8 +49,9 @@
       "comment": "предоплата 500",
       "price": 680,
       "id": "item-1786611393310-86",
-      "status": "active",
-      "updatedAt": 1786611393310
+      "status": "archived",
+      "updatedAt": 1786719682248,
+      "archivedDate": "14.08.2026, 18:01:22"
     },
     {
       "model": "хено спарк 10",
@@ -592,5 +593,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1786719642390
+  "updatedAt": 1786719683188
 }
