@@ -24,8 +24,9 @@
       "comment": "стекло 300",
       "price": 3000,
       "id": "item-1786694280271-714",
-      "status": "active",
-      "updatedAt": 1786694280271
+      "status": "archived",
+      "updatedAt": 1786950623004,
+      "archivedDate": "17.08.2026, 10:10:23"
     },
     {
       "model": "honor 90",
@@ -594,5 +595,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1786950616260
+  "updatedAt": 1786950623628
 }
