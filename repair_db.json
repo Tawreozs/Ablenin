@@ -11,8 +11,9 @@
       "price": 2500,
       "partsCost": 700,
       "id": "item-1786719228755-452",
-      "status": "active",
-      "updatedAt": 1786719228755
+      "status": "archived",
+      "updatedAt": 1787240797360,
+      "archivedDate": "20.08.2026, 18:46:37"
     },
     {
       "model": "самсунг а30эс",
@@ -595,5 +596,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787240792325
+  "updatedAt": 1787240798183
 }
