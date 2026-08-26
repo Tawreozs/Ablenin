@@ -15,20 +15,6 @@
       "updatedAt": 1787751311021
     },
     {
-      "model": "a5",
-      "reason": "замана акб",
-      "date": "24.08.2026, 18:15:44",
-      "contact": "89184469140",
-      "contact2": "",
-      "name": "Александр",
-      "comment": "",
-      "price": 1350,
-      "partsCost": 450,
-      "id": "item-1787584837762-567",
-      "status": "active",
-      "updatedAt": 1787584837762
-    },
-    {
       "model": "поко и инфиникс",
       "reason": "корпуса",
       "date": "25.08.2026, 15:05:25",
@@ -41,6 +27,21 @@
       "status": "archived",
       "updatedAt": 1787742275644,
       "archivedDate": "26.08.2026, 14:04:35"
+    },
+    {
+      "model": "a5",
+      "reason": "замана акб",
+      "date": "24.08.2026, 18:15:44",
+      "contact": "89184469140",
+      "contact2": "",
+      "name": "Александр",
+      "comment": "",
+      "price": 1350,
+      "partsCost": 450,
+      "id": "item-1787584837762-567",
+      "status": "archived",
+      "updatedAt": 1787756177021,
+      "archivedDate": "26.08.2026, 17:56:17"
     },
     {
       "model": "часы хуавей",
@@ -652,5 +653,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787756174536
+  "updatedAt": 1787756178673
 }
