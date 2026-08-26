@@ -37,8 +37,9 @@
       "comment": "",
       "price": 1000,
       "id": "item-1787240848154-684",
-      "status": "active",
-      "updatedAt": 1787240848154
+      "status": "archived",
+      "updatedAt": 1787742272354,
+      "archivedDate": "26.08.2026, 14:04:32"
     },
     {
       "model": "honor 10",
@@ -636,5 +637,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787742255977
+  "updatedAt": 1787742273776
 }
