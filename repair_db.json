@@ -7,12 +7,12 @@
       "contact": "89184933053",
       "contact2": "",
       "name": "Ваня",
-      "comment": "проверить динамик 300",
+      "comment": "проверить динамик 300 предоплата 2000",
       "price": 3000,
       "partsCost": 900,
       "id": "item-1787912714810-708",
       "status": "active",
-      "updatedAt": 1787912714810
+      "updatedAt": 1787912729130
     },
     {
       "model": "Honor 90",
@@ -696,5 +696,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787912715642
+  "updatedAt": 1787912729731
 }
