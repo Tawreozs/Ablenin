@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "model": "Honor 50",
+      "model": "Honor 90",
       "reason": "замена диспл корпус крышка",
       "date": "28.08.2026, 12:09:31",
       "contact": "89184825514",
@@ -9,9 +9,10 @@
       "name": "Степан",
       "comment": "",
       "price": 6750,
+      "partsCost": 3400,
       "id": "item-1787908316800-479",
       "status": "active",
-      "updatedAt": 1787908316800
+      "updatedAt": 1787909764636
     },
     {
       "model": "tecno camon 19",
@@ -681,5 +682,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787909756755
+  "updatedAt": 1787909765177
 }
