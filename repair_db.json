@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "tecno camon 19",
-      "reason": "",
-      "date": "27.08.2026, 17:08:22",
-      "contact": "89883155861",
-      "contact2": "",
-      "name": "Олег",
-      "comment": "",
-      "price": 2350,
-      "partsCost": 650,
-      "id": "item-1787839780602-692",
-      "status": "active",
-      "updatedAt": 1787839780602
-    },
-    {
       "model": "redmi 9",
       "reason": "Замена дисплея",
       "date": "28.08.2026, 13:21:49",
@@ -43,6 +29,21 @@
       "status": "archived",
       "updatedAt": 1787999824701,
       "archivedDate": "29.08.2026, 13:37:04"
+    },
+    {
+      "model": "tecno camon 19",
+      "reason": "",
+      "date": "27.08.2026, 17:08:22",
+      "contact": "89883155861",
+      "contact2": "",
+      "name": "Олег",
+      "comment": "",
+      "price": 2350,
+      "partsCost": 650,
+      "id": "item-1787839780602-692",
+      "status": "archived",
+      "updatedAt": 1787999828493,
+      "archivedDate": "29.08.2026, 13:37:08"
     },
     {
       "model": "REALME 10 PRO",
@@ -698,5 +699,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787999825326
+  "updatedAt": 1787999829037
 }
