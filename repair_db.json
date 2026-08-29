@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Honor 90",
-      "reason": "замена диспл корпус крышка",
-      "date": "28.08.2026, 12:09:31",
-      "contact": "89184825514",
-      "contact2": "89181282209",
-      "name": "Степан",
-      "comment": "",
-      "price": 6750,
-      "partsCost": 3400,
-      "id": "item-1787908316800-479",
-      "status": "active",
-      "updatedAt": 1787909764636
-    },
-    {
       "model": "tecno camon 19",
       "reason": "",
       "date": "27.08.2026, 17:08:22",
@@ -42,6 +28,21 @@
       "status": "archived",
       "updatedAt": 1787998304670,
       "archivedDate": "29.08.2026, 13:11:44"
+    },
+    {
+      "model": "Honor 90",
+      "reason": "замена диспл корпус крышка",
+      "date": "28.08.2026, 12:09:31",
+      "contact": "89184825514",
+      "contact2": "89181282209",
+      "name": "Степан",
+      "comment": "",
+      "price": 6750,
+      "partsCost": 3400,
+      "id": "item-1787908316800-479",
+      "status": "archived",
+      "updatedAt": 1787999824701,
+      "archivedDate": "29.08.2026, 13:37:04"
     },
     {
       "model": "REALME 10 PRO",
@@ -697,5 +698,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1787999800262
+  "updatedAt": 1787999825326
 }
