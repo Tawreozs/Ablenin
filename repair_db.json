@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Infinix NOTE 12 Pro",
+      "reason": "замена диспеля",
+      "date": "31.08.2026, 18:11:18",
+      "contact": "89094477491",
+      "contact2": "",
+      "name": "Алексей",
+      "comment": "350+3000 возможно акб 1000",
+      "price": 3000,
+      "partsCost": 800,
+      "id": "item-1788189158500-413",
+      "status": "active",
+      "updatedAt": 1788189158500
+    },
+    {
       "model": "redmi 9",
       "reason": "Замена дисплея",
       "date": "28.08.2026, 13:21:49",
@@ -699,5 +713,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788189141095
+  "updatedAt": 1788189159086
 }
