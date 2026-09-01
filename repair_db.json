@@ -23,8 +23,9 @@
       "price": 3000,
       "partsCost": 800,
       "id": "item-1788189158500-413",
-      "status": "active",
-      "updatedAt": 1788189158500
+      "status": "archived",
+      "updatedAt": 1788259793242,
+      "archivedDate": "01.09.2026, 13:49:53"
     },
     {
       "model": "redmi 9",
@@ -725,5 +726,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788259790571
+  "updatedAt": 1788259793746
 }
