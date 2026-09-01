@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "хонор",
+      "reason": "не вкл",
+      "date": "01.09.2026, 13:49:20",
+      "contact": "89184846733",
+      "contact2": "",
+      "name": "Тамара",
+      "comment": "",
+      "id": "item-1788259789853-420",
+      "status": "active",
+      "updatedAt": 1788259789853
+    },
+    {
       "model": "Infinix NOTE 12 Pro",
       "reason": "замена диспеля",
       "date": "31.08.2026, 18:11:18",
@@ -713,5 +725,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788259759677
+  "updatedAt": 1788259790571
 }
