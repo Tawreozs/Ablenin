@@ -9,8 +9,9 @@
       "name": "Тамара",
       "comment": "",
       "id": "item-1788259789853-420",
-      "status": "active",
-      "updatedAt": 1788259789853
+      "status": "archived",
+      "updatedAt": 1788419884737,
+      "archivedDate": "03.09.2026, 10:18:04"
     },
     {
       "model": "Infinix NOTE 12 Pro",
@@ -726,5 +727,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788419879641
+  "updatedAt": 1788419885616
 }
