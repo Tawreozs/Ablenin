@@ -7,11 +7,11 @@
       "contact": "89608624942",
       "contact2": "",
       "name": "АНдрей",
-      "comment": "",
+      "comment": "5836",
       "price": 1500,
       "id": "item-1788516777520-478",
       "status": "active",
-      "updatedAt": 1788516777520
+      "updatedAt": 1788516790620
     },
     {
       "model": "хонор",
@@ -740,5 +740,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788516779539
+  "updatedAt": 1788516794745
 }
