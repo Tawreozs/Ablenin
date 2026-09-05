@@ -7,12 +7,12 @@
       "contact": "89385452979",
       "contact2": "",
       "name": "Максим",
-      "comment": "",
+      "comment": "предоплата 500",
       "price": 1350,
       "partsCost": 290,
       "id": "item-1788607050222-658",
       "status": "active",
-      "updatedAt": 1788607050222
+      "updatedAt": 1788607097293
     },
     {
       "model": "samsung a15",
@@ -754,5 +754,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788607097146
+  "updatedAt": 1788607102915
 }
