@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Huawei Pura 70 Pro",
+      "reason": "замена задней крышки",
+      "date": "05.09.2026, 14:16:42",
+      "contact": "89385452979",
+      "contact2": "",
+      "name": "Максим",
+      "comment": "",
+      "price": 1350,
+      "partsCost": 290,
+      "id": "item-1788607050222-658",
+      "status": "active",
+      "updatedAt": 1788607050222
+    },
+    {
       "model": "samsung a15",
       "reason": "не работает микрофон",
       "date": "04.09.2026, 13:12:31",
@@ -740,5 +754,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788607047412
+  "updatedAt": 1788607050839
 }
