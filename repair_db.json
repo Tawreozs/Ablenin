@@ -37,8 +37,9 @@
       "price": 1350,
       "partsCost": 290,
       "id": "item-1788607050222-658",
-      "status": "active",
-      "updatedAt": 1788607097293
+      "status": "archived",
+      "updatedAt": 1788786498542,
+      "archivedDate": "07.09.2026, 16:08:18"
     },
     {
       "model": "samsung a15",
@@ -781,5 +782,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788786494683
+  "updatedAt": 1788786499225
 }
