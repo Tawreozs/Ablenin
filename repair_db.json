@@ -24,8 +24,9 @@
       "comment": "5836",
       "price": 1500,
       "id": "item-1788516777520-478",
-      "status": "active",
-      "updatedAt": 1788516790620
+      "status": "archived",
+      "updatedAt": 1788768708192,
+      "archivedDate": "07.09.2026, 11:11:48"
     },
     {
       "model": "хонор",
@@ -754,5 +755,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788768702673
+  "updatedAt": 1788768709504
 }
