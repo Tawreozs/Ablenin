@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "model": "техно",
-      "reason": "кнопка",
-      "date": "07.09.2026, 15:30:04",
-      "contact": "89282092621",
-      "contact2": "",
-      "name": "Игорь",
-      "comment": "",
-      "id": "item-1788784254605-709",
-      "status": "active",
-      "updatedAt": 1788784254605
-    },
-    {
       "model": "Xiaomi Redmi 9",
       "reason": "замена акб",
       "date": "07.09.2026, 14:10:04",
@@ -25,6 +13,19 @@
       "id": "item-1788779474038-633",
       "status": "active",
       "updatedAt": 1788779474038
+    },
+    {
+      "model": "техно",
+      "reason": "кнопка",
+      "date": "07.09.2026, 15:30:04",
+      "contact": "89282092621",
+      "contact2": "",
+      "name": "Игорь",
+      "comment": "",
+      "id": "item-1788784254605-709",
+      "status": "archived",
+      "updatedAt": 1788786500106,
+      "archivedDate": "07.09.2026, 16:08:20"
     },
     {
       "model": "Huawei Pura 70 Pro",
@@ -782,5 +783,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788786499225
+  "updatedAt": 1788786500933
 }
