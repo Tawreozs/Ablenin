@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Xiaomi Redmi 9",
+      "reason": "замена акб",
+      "date": "07.09.2026, 14:10:04",
+      "contact": "89182852525",
+      "contact2": "89184371555",
+      "name": "Эля",
+      "comment": "предопалата 1000",
+      "price": 2450,
+      "partsCost": 700,
+      "id": "item-1788779474038-633",
+      "status": "active",
+      "updatedAt": 1788779474038
+    },
+    {
       "model": "Huawei Pura 70 Pro",
       "reason": "замена задней крышки",
       "date": "05.09.2026, 14:16:42",
@@ -755,5 +769,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788779466595
+  "updatedAt": 1788779474640
 }
