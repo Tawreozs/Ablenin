@@ -14,20 +14,6 @@
       "updatedAt": 1788957895050
     },
     {
-      "model": "Xiaomi Redmi 9",
-      "reason": "замена акб",
-      "date": "07.09.2026, 14:10:04",
-      "contact": "89182852525",
-      "contact2": "89184371555",
-      "name": "Эля",
-      "comment": "предопалата 1000",
-      "price": 2450,
-      "partsCost": 700,
-      "id": "item-1788779474038-633",
-      "status": "active",
-      "updatedAt": 1788779474038
-    },
-    {
       "model": "техно",
       "reason": "кнопка",
       "date": "07.09.2026, 15:30:04",
@@ -39,6 +25,21 @@
       "status": "archived",
       "updatedAt": 1788786500106,
       "archivedDate": "07.09.2026, 16:08:20"
+    },
+    {
+      "model": "Xiaomi Redmi 9",
+      "reason": "замена акб",
+      "date": "07.09.2026, 14:10:04",
+      "contact": "89182852525",
+      "contact2": "89184371555",
+      "name": "Эля",
+      "comment": "предопалата 1000",
+      "price": 2450,
+      "partsCost": 700,
+      "id": "item-1788779474038-633",
+      "status": "archived",
+      "updatedAt": 1788958021488,
+      "archivedDate": "09.09.2026, 15:47:01"
     },
     {
       "model": "Huawei Pura 70 Pro",
@@ -796,5 +797,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1788957989055
+  "updatedAt": 1788958022292
 }
