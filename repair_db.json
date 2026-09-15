@@ -24,8 +24,9 @@
       "comment": "смс",
       "price": 1500,
       "id": "item-1788957895050-85",
-      "status": "active",
-      "updatedAt": 1788957895050
+      "status": "archived",
+      "updatedAt": 1789462722652,
+      "archivedDate": "15.09.2026, 11:58:42"
     },
     {
       "model": "техно",
@@ -811,5 +812,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1789462706700
+  "updatedAt": 1789462723287
 }
