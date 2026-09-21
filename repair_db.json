@@ -11,8 +11,9 @@
       "price": 3450,
       "partsCost": 1200,
       "id": "item-1789393301231-695",
-      "status": "active",
-      "updatedAt": 1789393301231
+      "status": "archived",
+      "updatedAt": 1789902460391,
+      "archivedDate": "20.09.2026, 14:07:40"
     },
     {
       "model": "ноут днс",
@@ -812,5 +813,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1789486505262
+  "updatedAt": 1789998790476
 }
