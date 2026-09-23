@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "стекла",
+      "reason": "",
+      "date": "23.09.2026, 14:01:40",
+      "contact": "89883494355",
+      "contact2": "",
+      "name": "Владимир Петрович",
+      "comment": "стекла защитные XS max     Infinix hot 40",
+      "price": 1000,
+      "partsCost": 250,
+      "id": "item-1790161350883-163",
+      "status": "active",
+      "updatedAt": 1790161350883
+    },
+    {
       "model": "наушники",
       "reason": "",
       "date": "21.09.2026, 16:53:10",
@@ -825,5 +839,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1790161346733
+  "updatedAt": 1790161351681
 }
