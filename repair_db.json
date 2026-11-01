@@ -26,18 +26,6 @@
       "updatedAt": 1793525776353
     },
     {
-      "model": "наушники",
-      "reason": "",
-      "date": "21.09.2026, 16:53:10",
-      "contact": "89787593302",
-      "contact2": "",
-      "name": "Мария",
-      "comment": "",
-      "id": "item-1789998823243-140",
-      "status": "active",
-      "updatedAt": 1789998823243
-    },
-    {
       "model": "стекла",
       "reason": "",
       "date": "23.09.2026, 14:01:40",
@@ -51,6 +39,19 @@
       "status": "archived",
       "updatedAt": 1793539633463,
       "archivedDate": "01.11.2026, 16:27:13"
+    },
+    {
+      "model": "наушники",
+      "reason": "",
+      "date": "21.09.2026, 16:53:10",
+      "contact": "89787593302",
+      "contact2": "",
+      "name": "Мария",
+      "comment": "",
+      "id": "item-1789998823243-140",
+      "status": "archived",
+      "updatedAt": 1793539635464,
+      "archivedDate": "01.11.2026, 16:27:15"
     },
     {
       "model": "samsung a07",
@@ -865,5 +866,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1793539634645
+  "updatedAt": 1793539635962
 }
