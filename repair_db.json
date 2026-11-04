@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "samsung a07",
+      "reason": "разбит дисплей",
+      "date": "04.11.2026, 13:59:33",
+      "contact": "89531048308",
+      "contact2": "",
+      "name": "Евгений",
+      "comment": "копия без гарантии   061167",
+      "price": 3000,
+      "partsCost": 700,
+      "id": "item-1793790022628-162",
+      "status": "active",
+      "updatedAt": 1793790037115
+    },
+    {
       "model": "Redmi Note 12S",
       "reason": "нет изображения",
       "date": "01.11.2026, 15:46:46",
@@ -866,5 +880,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1793790007735
+  "updatedAt": 1793790131803
 }
