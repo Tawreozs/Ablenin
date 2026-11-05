@@ -10,7 +10,9 @@
       "comment": "на дискотеку",
       "id": "item-1793803836018-484",
       "status": "active",
-      "updatedAt": 1793803914245
+      "updatedAt": 1793869032013,
+      "price": 3000,
+      "partsCost": 0
     },
     {
       "model": "Realme 11 Pro 5G и realme 6i",
@@ -907,5 +909,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1793869007199
+  "updatedAt": 1793869035083
 }
