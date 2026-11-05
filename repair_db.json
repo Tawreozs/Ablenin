@@ -43,19 +43,6 @@
       "updatedAt": 1793790037115
     },
     {
-      "model": "hot 30 pay",
-      "reason": "нез радяжется",
-      "date": "01.11.2026, 12:35:21",
-      "contact": "89385406375",
-      "contact2": "Олег",
-      "name": "",
-      "comment": "12357",
-      "price": 2000,
-      "id": "item-1793525776353-740",
-      "status": "active",
-      "updatedAt": 1793525776353
-    },
-    {
       "model": "Redmi Note 12S",
       "reason": "нет изображения",
       "date": "01.11.2026, 15:46:46",
@@ -67,6 +54,20 @@
       "status": "archived",
       "updatedAt": 1793799081528,
       "archivedDate": "04.11.2026, 16:31:21"
+    },
+    {
+      "model": "hot 30 pay",
+      "reason": "нез радяжется",
+      "date": "01.11.2026, 12:35:21",
+      "contact": "89385406375",
+      "contact2": "Олег",
+      "name": "",
+      "comment": "12357",
+      "price": 2000,
+      "id": "item-1793525776353-740",
+      "status": "archived",
+      "updatedAt": 1793869091379,
+      "archivedDate": "05.11.2026, 11:58:11"
     },
     {
       "model": "стекла",
@@ -909,5 +910,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1793869095507
+  "updatedAt": 1793869095337
 }
