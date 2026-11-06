@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Redmi Note 14 4G",
+      "reason": "",
+      "date": "06.11.2026, 15:05:40",
+      "contact": "89184933053",
+      "contact2": "Вартан",
+      "name": "",
+      "comment": "стекло",
+      "id": "item-1793966770233-955",
+      "status": "active",
+      "updatedAt": 1793966770233
+    },
+    {
       "model": "колонка",
       "reason": "вход зу",
       "date": "05.11.2026, 11:59:42",
@@ -923,5 +935,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1793966739001
+  "updatedAt": 1793966772139
 }
