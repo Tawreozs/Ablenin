@@ -39,20 +39,6 @@
       "updatedAt": 1793966823166
     },
     {
-      "model": "samsung a07",
-      "reason": "разбит дисплей",
-      "date": "04.11.2026, 13:59:33",
-      "contact": "89531048308",
-      "contact2": "",
-      "name": "Евгений",
-      "comment": "копия без гарантии   061167",
-      "price": 3000,
-      "partsCost": 700,
-      "id": "item-1793790022628-162",
-      "status": "active",
-      "updatedAt": 1793790037115
-    },
-    {
       "model": "колонка",
       "reason": "вход зу",
       "date": "05.11.2026, 11:59:42",
@@ -95,6 +81,21 @@
       "status": "archived",
       "updatedAt": 1794209161537,
       "archivedDate": "09.11.2026, 10:26:01"
+    },
+    {
+      "model": "samsung a07",
+      "reason": "разбит дисплей",
+      "date": "04.11.2026, 13:59:33",
+      "contact": "89531048308",
+      "contact2": "",
+      "name": "Евгений",
+      "comment": "копия без гарантии   061167",
+      "price": 3000,
+      "partsCost": 700,
+      "id": "item-1793790022628-162",
+      "status": "archived",
+      "updatedAt": 1794209163585,
+      "archivedDate": "09.11.2026, 10:26:03"
     },
     {
       "model": "Redmi Note 12S",
@@ -964,5 +965,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794209163455
+  "updatedAt": 1794209197835
 }
