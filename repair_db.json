@@ -9,10 +9,10 @@
       "name": "",
       "comment": "",
       "price": 3300,
-      "partsCost": 750,
+      "partsCost": 650,
       "id": "item-1794229589749-903",
       "status": "active",
-      "updatedAt": 1794229589749
+      "updatedAt": 1794234598095
     },
     {
       "model": "Huawei Nova Y72S",
@@ -992,5 +992,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794234593978
+  "updatedAt": 1794234598738
 }
