@@ -39,19 +39,6 @@
       "updatedAt": 1793966823166
     },
     {
-      "model": "колонка",
-      "reason": "вход зу",
-      "date": "05.11.2026, 11:59:42",
-      "contact": "89180506685",
-      "contact2": "Николай",
-      "name": "",
-      "comment": "",
-      "price": 750,
-      "id": "item-1793869205732-747",
-      "status": "active",
-      "updatedAt": 1793869205732
-    },
-    {
       "model": "infinix hot 50",
       "reason": "не включается не зражяется кд",
       "date": "04.11.2026, 17:49:25",
@@ -92,6 +79,20 @@
       "id": "item-1793790022628-162",
       "status": "active",
       "updatedAt": 1793790037115
+    },
+    {
+      "model": "колонка",
+      "reason": "вход зу",
+      "date": "05.11.2026, 11:59:42",
+      "contact": "89180506685",
+      "contact2": "Николай",
+      "name": "",
+      "comment": "",
+      "price": 750,
+      "id": "item-1793869205732-747",
+      "status": "archived",
+      "updatedAt": 1794209156620,
+      "archivedDate": "09.11.2026, 10:25:56"
     },
     {
       "model": "Redmi Note 12S",
@@ -961,5 +962,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794209155691
+  "updatedAt": 1794209158944
 }
