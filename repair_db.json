@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Huawei MediaPad T3 10\"",
+      "reason": "замена акб",
+      "date": "09.11.2026, 16:05:58",
+      "contact": "89180640733",
+      "contact2": "Виктор",
+      "name": "",
+      "comment": "",
+      "price": 3300,
+      "partsCost": 750,
+      "id": "item-1794229589749-903",
+      "status": "active",
+      "updatedAt": 1794229589749
+    },
+    {
       "model": "Huawei Nova Y72S",
       "reason": "замена дисплея",
       "date": "09.11.2026, 14:34:37",
@@ -978,5 +992,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794229530978
+  "updatedAt": 1794229681700
 }
