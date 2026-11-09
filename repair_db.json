@@ -39,34 +39,6 @@
       "updatedAt": 1793966823166
     },
     {
-      "model": "infinix hot 50",
-      "reason": "не включается не зражяется кд",
-      "date": "04.11.2026, 17:49:25",
-      "contact": "89113190552",
-      "contact2": "Оксана",
-      "name": "",
-      "comment": "на дискотеку",
-      "id": "item-1793803836018-484",
-      "status": "active",
-      "updatedAt": 1793869032013,
-      "price": 3000,
-      "partsCost": 0
-    },
-    {
-      "model": "Realme 11 Pro 5G и realme 6i",
-      "reason": "замена кнопки включения и замена дисплея",
-      "date": "04.11.2026, 14:26:53",
-      "contact": "89183899929",
-      "contact2": "",
-      "name": "Илья",
-      "comment": "почистить динамик и микрофон дисплей на релми 6ай 3500 2 мес гарантии\n",
-      "price": 1700,
-      "partsCost": 70,
-      "id": "item-1793791667571-422",
-      "status": "active",
-      "updatedAt": 1793797739959
-    },
-    {
       "model": "samsung a07",
       "reason": "разбит дисплей",
       "date": "04.11.2026, 13:59:33",
@@ -93,6 +65,36 @@
       "status": "archived",
       "updatedAt": 1794209156620,
       "archivedDate": "09.11.2026, 10:25:56"
+    },
+    {
+      "model": "infinix hot 50",
+      "reason": "не включается не зражяется кд",
+      "date": "04.11.2026, 17:49:25",
+      "contact": "89113190552",
+      "contact2": "Оксана",
+      "name": "",
+      "comment": "на дискотеку",
+      "id": "item-1793803836018-484",
+      "status": "archived",
+      "updatedAt": 1794209158660,
+      "price": 3000,
+      "partsCost": 0,
+      "archivedDate": "09.11.2026, 10:25:58"
+    },
+    {
+      "model": "Realme 11 Pro 5G и realme 6i",
+      "reason": "замена кнопки включения и замена дисплея",
+      "date": "04.11.2026, 14:26:53",
+      "contact": "89183899929",
+      "contact2": "",
+      "name": "Илья",
+      "comment": "почистить динамик и микрофон дисплей на релми 6ай 3500 2 мес гарантии\n",
+      "price": 1700,
+      "partsCost": 70,
+      "id": "item-1793791667571-422",
+      "status": "archived",
+      "updatedAt": 1794209161537,
+      "archivedDate": "09.11.2026, 10:26:01"
     },
     {
       "model": "Redmi Note 12S",
@@ -962,5 +964,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794209158944
+  "updatedAt": 1794209163455
 }
