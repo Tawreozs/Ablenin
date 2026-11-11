@@ -41,18 +41,6 @@
       "updatedAt": 1794132345480
     },
     {
-      "model": "Redmi Note 14 4G",
-      "reason": "",
-      "date": "06.11.2026, 15:05:40",
-      "contact": "89184933053",
-      "contact2": "Вартан",
-      "name": "",
-      "comment": "стекло 300 предоплата ",
-      "id": "item-1793966770233-955",
-      "status": "active",
-      "updatedAt": 1794234638792
-    },
-    {
       "model": "vivo y53s",
       "reason": "разбит дисплей",
       "date": "08.11.2026, 12:12:48",
@@ -66,6 +54,19 @@
       "status": "archived",
       "updatedAt": 1794234629136,
       "archivedDate": "09.11.2026, 17:30:29"
+    },
+    {
+      "model": "Redmi Note 14 4G",
+      "reason": "",
+      "date": "06.11.2026, 15:05:40",
+      "contact": "89184933053",
+      "contact2": "Вартан",
+      "name": "",
+      "comment": "стекло 300 предоплата ",
+      "id": "item-1793966770233-955",
+      "status": "archived",
+      "updatedAt": 1794385554949,
+      "archivedDate": "11.11.2026, 11:25:54"
     },
     {
       "model": "колонка",
@@ -994,5 +995,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794385534694
+  "updatedAt": 1794385557406
 }
