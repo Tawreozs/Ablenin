@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "tecno spark go 1",
+      "reason": "замена гнезда заряда",
+      "date": "16.11.2026, 12:40:06",
+      "contact": "89182342722",
+      "contact2": "Татьяна Сергей",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1794822091184-166",
+      "status": "active",
+      "updatedAt": 1794822091184
+    },
+    {
       "model": "Huawei MediaPad T3 10\"",
       "reason": "замена акб",
       "date": "09.11.2026, 16:05:58",
@@ -995,5 +1008,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794822052944
+  "updatedAt": 1794822092405
 }
