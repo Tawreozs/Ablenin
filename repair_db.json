@@ -14,20 +14,6 @@
       "updatedAt": 1794822091184
     },
     {
-      "model": "Huawei Nova Y72S",
-      "reason": "замена дисплея",
-      "date": "09.11.2026, 14:34:37",
-      "contact": "89628727776",
-      "contact2": "Екатерина",
-      "name": "",
-      "comment": "ориг 2 мес гарантии стекло защитное",
-      "price": 4200,
-      "partsCost": 800,
-      "id": "item-1794224290516-400",
-      "status": "active",
-      "updatedAt": 1794234616044
-    },
-    {
       "model": "ноутбук леново",
       "reason": "Не включатеся не задяжатеа",
       "date": "08.11.2026, 13:01:03",
@@ -53,6 +39,21 @@
       "status": "archived",
       "updatedAt": 1794826574933,
       "archivedDate": "16.11.2026, 13:56:14"
+    },
+    {
+      "model": "Huawei Nova Y72S",
+      "reason": "замена дисплея",
+      "date": "09.11.2026, 14:34:37",
+      "contact": "89628727776",
+      "contact2": "Екатерина",
+      "name": "",
+      "comment": "ориг 2 мес гарантии стекло защитное",
+      "price": 4200,
+      "partsCost": 800,
+      "id": "item-1794224290516-400",
+      "status": "archived",
+      "updatedAt": 1794826577508,
+      "archivedDate": "16.11.2026, 13:56:17"
     },
     {
       "model": "vivo y53s",
@@ -1009,5 +1010,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794826575660
+  "updatedAt": 1794826578106
 }
