@@ -14,20 +14,6 @@
       "updatedAt": 1794822091184
     },
     {
-      "model": "Huawei MediaPad T3 10\"",
-      "reason": "замена акб",
-      "date": "09.11.2026, 16:05:58",
-      "contact": "89180640733",
-      "contact2": "Виктор",
-      "name": "",
-      "comment": "",
-      "price": 3300,
-      "partsCost": 650,
-      "id": "item-1794229589749-903",
-      "status": "active",
-      "updatedAt": 1794234598095
-    },
-    {
       "model": "Huawei Nova Y72S",
       "reason": "замена дисплея",
       "date": "09.11.2026, 14:34:37",
@@ -52,6 +38,21 @@
       "id": "item-1794132118198-823",
       "status": "active",
       "updatedAt": 1794132345480
+    },
+    {
+      "model": "Huawei MediaPad T3 10\"",
+      "reason": "замена акб",
+      "date": "09.11.2026, 16:05:58",
+      "contact": "89180640733",
+      "contact2": "Виктор",
+      "name": "",
+      "comment": "",
+      "price": 3300,
+      "partsCost": 650,
+      "id": "item-1794229589749-903",
+      "status": "archived",
+      "updatedAt": 1794826574933,
+      "archivedDate": "16.11.2026, 13:56:14"
     },
     {
       "model": "vivo y53s",
@@ -1008,5 +1009,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794826561721
+  "updatedAt": 1794826575660
 }
