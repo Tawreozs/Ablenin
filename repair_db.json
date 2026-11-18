@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "часы Disel DZ-1657",
-      "reason": "замена часовой акб 377 рената",
-      "date": "18.11.2026, 12:22:27",
-      "contact": "89186245799",
-      "contact2": "",
-      "name": "Сергей Николаевич",
-      "comment": "гарантия 3 года",
-      "price": 1200,
-      "partsCost": 250,
-      "id": "item-1794993865355-835",
-      "status": "active",
-      "updatedAt": 1794993865355
-    },
-    {
       "model": "tecno spark go 1",
       "reason": "замена гнезда заряда",
       "date": "16.11.2026, 12:40:06",
@@ -26,6 +12,21 @@
       "id": "item-1794822091184-166",
       "status": "active",
       "updatedAt": 1794822091184
+    },
+    {
+      "model": "часы Disel DZ-1657",
+      "reason": "замена часовой акб 377 рената",
+      "date": "18.11.2026, 12:22:27",
+      "contact": "89186245799",
+      "contact2": "",
+      "name": "Сергей Николаевич",
+      "comment": "гарантия 3 года",
+      "price": 1200,
+      "partsCost": 250,
+      "id": "item-1794993865355-835",
+      "status": "archived",
+      "updatedAt": 1794993961528,
+      "archivedDate": "18.11.2026, 12:26:01"
     },
     {
       "model": "Huawei MediaPad T3 10\"",
@@ -1025,5 +1026,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1794993958060
+  "updatedAt": 1794993962160
 }
