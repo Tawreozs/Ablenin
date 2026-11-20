@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "model": "tecno spark go 1",
-      "reason": "замена гнезда заряда",
-      "date": "16.11.2026, 12:40:06",
-      "contact": "89182342722",
-      "contact2": "Татьяна Сергей",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "id": "item-1794822091184-166",
-      "status": "active",
-      "updatedAt": 1794822091184
-    },
-    {
       "model": "iphone 15 pro",
       "reason": "замена акб замена дисплея",
       "date": "19.11.2026, 14:42:58",
@@ -55,6 +42,20 @@
       "status": "archived",
       "updatedAt": 1794993961528,
       "archivedDate": "18.11.2026, 12:26:01"
+    },
+    {
+      "model": "tecno spark go 1",
+      "reason": "замена гнезда заряда",
+      "date": "16.11.2026, 12:40:06",
+      "contact": "89182342722",
+      "contact2": "Татьяна Сергей",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1794822091184-166",
+      "status": "archived",
+      "updatedAt": 1795184290574,
+      "archivedDate": "20.11.2026, 17:18:10"
     },
     {
       "model": "Huawei MediaPad T3 10\"",
@@ -1054,5 +1055,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795184289791
+  "updatedAt": 1795184291474
 }
