@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "spark",
+      "reason": "замена гнезда",
+      "date": "23.11.2026, 13:36:41",
+      "contact": "89521845903",
+      "contact2": "",
+      "name": "Александр",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1795430285506-340",
+      "status": "active",
+      "updatedAt": 1795430285506
+    },
+    {
       "model": "samsung a22",
       "reason": "не заряжается",
       "date": "23.11.2026, 11:38:25",
@@ -1069,5 +1082,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795430261561
+  "updatedAt": 1795430288384
 }
