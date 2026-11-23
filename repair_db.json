@@ -9,9 +9,10 @@
       "name": "Артур",
       "comment": "",
       "price": 2000,
+      "partsCost": 50,
       "id": "item-1795423139527-813",
       "status": "active",
-      "updatedAt": 1795423139527
+      "updatedAt": 1795426257188
     },
     {
       "model": "iphone 15 pro",
@@ -1068,5 +1069,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795426259116
+  "updatedAt": 1795426318865
 }
