@@ -14,19 +14,6 @@
       "updatedAt": 1795437085071
     },
     {
-      "model": "spark",
-      "reason": "замена гнезда",
-      "date": "23.11.2026, 13:36:41",
-      "contact": "89521845903",
-      "contact2": "",
-      "name": "Александр",
-      "comment": "",
-      "price": 1500,
-      "id": "item-1795430285506-340",
-      "status": "active",
-      "updatedAt": 1795430285506
-    },
-    {
       "model": "samsung a22",
       "reason": "не заряжается",
       "date": "23.11.2026, 11:38:25",
@@ -39,6 +26,20 @@
       "id": "item-1795423139527-813",
       "status": "active",
       "updatedAt": 1795426257188
+    },
+    {
+      "model": "spark",
+      "reason": "замена гнезда",
+      "date": "23.11.2026, 13:36:41",
+      "contact": "89521845903",
+      "contact2": "",
+      "name": "Александр",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1795430285506-340",
+      "status": "archived",
+      "updatedAt": 1795445101545,
+      "archivedDate": "23.11.2026, 17:45:01"
     },
     {
       "model": "iphone 15 pro",
@@ -1095,5 +1096,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795445099080
+  "updatedAt": 1795445102277
 }
