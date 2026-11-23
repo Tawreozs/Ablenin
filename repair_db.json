@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "samsung a22",
+      "reason": "не заряжается",
+      "date": "23.11.2026, 11:38:25",
+      "contact": "89284212700",
+      "contact2": "",
+      "name": "Артур",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1795423139527-813",
+      "status": "active",
+      "updatedAt": 1795423139527
+    },
+    {
       "model": "iphone 15 pro",
       "reason": "замена акб замена дисплея",
       "date": "19.11.2026, 14:42:58",
@@ -1055,5 +1068,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795423106164
+  "updatedAt": 1795423142857
 }
