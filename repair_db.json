@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "samsung a22",
-      "reason": "не заряжается",
-      "date": "23.11.2026, 11:38:25",
-      "contact": "89284212700",
-      "contact2": "",
-      "name": "Артур",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 50,
-      "id": "item-1795423139527-813",
-      "status": "active",
-      "updatedAt": 1795426257188
-    },
-    {
       "model": "колонка",
       "reason": "не заряжатеся",
       "date": "23.11.2026, 15:30:44",
@@ -41,6 +27,21 @@
       "status": "archived",
       "updatedAt": 1795445101545,
       "archivedDate": "23.11.2026, 17:45:01"
+    },
+    {
+      "model": "samsung a22",
+      "reason": "не заряжается",
+      "date": "23.11.2026, 11:38:25",
+      "contact": "89284212700",
+      "contact2": "",
+      "name": "Артур",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 50,
+      "id": "item-1795423139527-813",
+      "status": "archived",
+      "updatedAt": 1795445106000,
+      "archivedDate": "23.11.2026, 17:45:06"
     },
     {
       "model": "iphone 15 pro",
@@ -1097,5 +1098,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795445104603
+  "updatedAt": 1795445106716
 }
