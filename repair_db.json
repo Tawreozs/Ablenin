@@ -7,11 +7,11 @@
       "contact": "89883155898",
       "contact2": "",
       "name": "Никита",
-      "comment": "",
+      "comment": "8081",
       "price": 2200,
       "id": "item-1795507891824-860",
       "status": "active",
-      "updatedAt": 1795507891824
+      "updatedAt": 1795507929962
     },
     {
       "model": "колонка",
@@ -1111,5 +1111,5 @@
     "item-1779959007158-200"
   ],
   "partsUpdatedAt": 1779959159091,
-  "updatedAt": 1795507892656
+  "updatedAt": 1795507930912
 }
